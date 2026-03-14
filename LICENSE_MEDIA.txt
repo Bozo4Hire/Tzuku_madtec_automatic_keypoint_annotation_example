@@ -1,0 +1,12 @@
+Copyright Notice and Usage Restrictions
+Copyright © 2026 Centro de Investigación Científica y de Educación Superior de Ensenada. All Rights Reserved.
+
+The media file(s) contained in this repository, specifically Tonalli_juguete-propio_cam-A_DLC, are the property of CICESE.
+
+1. No License Granted: No license, express or implied, is granted to any person or entity to use, copy, distribute, modify, or create derivative works of this media.
+
+2. Permitted Use: The media is provided solely for the purpose of visual demonstration within the context of this GitHub repository. Any other use, including but not limited to academic publication, commercial use, or social media distribution, is strictly prohibited without prior written consent from the copyright holder.
+
+3. Institutional Data: This media is derived from a private institutional dataset. Unauthorized redistribution may violate institutional policy and data privacy agreements.
+
+For inquiries regarding permissions or licensing, please contact: hussein@cicese.mx.
