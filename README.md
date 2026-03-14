@@ -21,6 +21,6 @@ The example video (`Tonalli_juguete-propio_cam-A_DLC.mp4`) and any provided samp
 * **No Redistribution:** You may **not** copy, share, or host this video.
 * **No Modification:** You may **not** edit, remix, or create derivative works from these assets.
 * **Non-Commercial:** Commercial use of these assets is strictly prohibited.
-* **Institutional Property:** These assets are derived from a private dataset developed by **[CICESE]** and are subject to institutional data privacy agreements.
+* **Institutional Property:** These assets are derived from a private dataset developed by **CICESE** and are subject to institutional data privacy agreements.
 
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](https://en.wikipedia.org/wiki/All_rights_reserved)
