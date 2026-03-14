@@ -12,7 +12,7 @@ The file `Tonalli_juguete-propio_cam-A.mp4` showcases the result s of automatic 
 
 ### 1. Media & Data License (All Rights Reserved)
 
-The example video (`assets/example_demo.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution (see [LICENSE_MEDIA](LICENSE_MEDIA)). 
+The example video (`Tonalli_juguete-propio_cam-A_DLC.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution (see [LICENSE_MEDIA](LICENSE_MEDIA)). 
 
 **Copyright © 2026 CICESE. All Rights Reserved.**
 
