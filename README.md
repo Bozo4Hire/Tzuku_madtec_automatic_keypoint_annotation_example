@@ -1,7 +1,7 @@
 # Tzuku MadTec Automatic Annotation Example
 
 ## Example Video
-The file `Tonalli_juguete-propio_cam-A.mp4` showcases the result s of automatic keypoint labeling done through Deep Lab Cut framework, and leveraging transfer learning from SuperAnimal Quadruped model.
+The file `Tonalli_juguete-propio_cam-A_DLC.mp4` showcases the result s of automatic keypoint labeling done through Deep Lab Cut framework, and leveraging transfer learning from SuperAnimal Quadruped model.
 
 > [!IMPORTANT]  
 > The full dataset is **private** and subject to institutional data usage agreements. Access requests should be directed to hussein@cicese.mx.
