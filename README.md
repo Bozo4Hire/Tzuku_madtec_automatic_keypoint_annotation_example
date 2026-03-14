@@ -1,0 +1,1 @@
+# Tzuku_madtec_automatic_keypoint_annotation_example
