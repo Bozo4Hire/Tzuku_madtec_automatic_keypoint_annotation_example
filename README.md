@@ -33,7 +33,7 @@ This repository also includes the header from the generated feature vector ( see
 
 ### 1. Media & Data License (All Rights Reserved)
 
-The example video (`Tonalli_juguete-propio_cam-A_DLC.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution (see [LICENSE_MEDIA](LICENSE_MEDIA)). 
+The example video (`Tonalli_juguete-propio_cam-A_DLC.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution (see [LICENSE_MEDIA](LICENSE_MEDIA.txt)). 
 
 **Copyright © 2026 CICESE. All Rights Reserved.**
 
