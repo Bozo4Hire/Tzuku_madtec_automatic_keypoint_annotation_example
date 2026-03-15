@@ -9,7 +9,7 @@ The file `Tonalli_juguete-propio_cam-A_DLC.mp4` showcases the result s of automa
 ---
 
 ## Feature Vector Header
-This repository also includes the header from the generated feature vector ( see `visual_feat_vector_header.csv`), it comprises all the annotations made for every labeled frame, showing coordinates for each bodypart keyppint within the image, noramlized coordinates taken from object bounding boxes, and labels for activities and physionomic landmarks per each instance:
+This repository also includes the header from the generated feature vector ( see [`visual_feat_vector_header.csv`](visual_feat_vector_header.csv)), it comprises all the annotations made for every labeled frame, showing coordinates for each bodypart keyppint within the image, noramlized coordinates taken from object bounding boxes, and labels for activities and physionomic landmarks per each instance:
 
 | video_id          | frame_filename | frame | Act level | Act type    | Act Tail Feature | ... | x_back_right_paw | y_back_right_paw | xmin    | ymin    | xmax    | ymax    |
 |-------------------|----------------|-------|-----------|-------------|------------------|-----|------------------|------------------|---------|---------|---------|---------|
